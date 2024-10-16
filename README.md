@@ -10,4 +10,4 @@ Use the directory below for easy navigation to relevant files.
 
 ## Directory
 ### Python Basics
-- [Data Types] (Notes/Data_Types.ipynb)
+- [Data Types](/Notes/Data_Types.ipynb)
