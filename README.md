@@ -9,3 +9,5 @@ This repository contains notes and examples from various books, tutorials, and o
 Use the directory below for easy navigation to relevant files.
 
 ## Directory
+### Python Basics
+- [Data Types] (Notes/Data_Types.ipynb)
