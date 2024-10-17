@@ -11,5 +11,6 @@ Use the directory below for easy navigation to relevant files.
 ## Directory
 ### Python Basics
 - [Data Types](/Notes/Data_Types.ipynb)
+  - [Sets](/Notes/Data-Types/Sets.ipynb)
 - Loops and Conditions
   - Example: [Credit Card Payment](/Examples-and-Practice-Problems/Credit_Card_Payments.ipynb)
