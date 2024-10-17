@@ -10,7 +10,10 @@ Use the directory below for easy navigation to relevant files.
 
 ## Directory
 ### Python Basics
-- [Data Types](/Notes/Data_Types.ipynb)
-  - [Sets](/Notes/Data-Types/Sets.ipynb)
+- Data Types
+  - [Scalar Types](Notes/Data-Types/Scalar_Types.ipynb)
+  - [Strings](Notes/Data-Types/Strings.ipynb)
+  - [Sets](Notes/Data-Types/Sets.ipynb)
 - Loops and Conditions
-  - Example: [Credit Card Payment](/Examples-and-Practice-Problems/Credit_Card_Payments.ipynb)
+  - Example: [Credit Card Payment](Examples-and-Practice-Problems/Credit_Card_Payments.ipynb)
+- [Exception Handling](Notes/Exception_Handling.ipynb)
