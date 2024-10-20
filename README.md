@@ -9,11 +9,21 @@ This repository contains notes and examples from various books, tutorials, and o
 Use the directory below for easy navigation to relevant files.
 
 ## Directory
+
 ### Python Basics
 - Data Types
-  - [Scalar Types](Notes/Data-Types/Scalar_Types.ipynb)
+  - [Scalar types](Notes/Data-Types/Scalar_Types.ipynb)
   - [Strings](Notes/Data-Types/Strings.ipynb)
   - [Sets](Notes/Data-Types/Sets.ipynb)
 - Loops and Conditions
   - Example: [Credit Card Payment](Examples-and-Practice-Problems/Credit_Card_Payments.ipynb)
+- Exceptions and Assertions
 - [Exception Handling](Notes/Exception_Handling.ipynb)
+
+### Data Science
+- File and Data Processing
+  - Reading and writing files with Open
+  - Working with Pandas
+  - Working with NumPy
+- APIs and Data Collection
+### Machine Learning
