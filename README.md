@@ -20,10 +20,9 @@ Use the directory below for easy navigation to relevant files.
 - Exceptions and Assertions
 - [Exception Handling](Notes/Exception_Handling.ipynb)
 
-### Data Science
-- File and Data Processing
-  - Reading and writing files with Open
-  - Working with Pandas
-  - Working with NumPy
-- APIs and Data Collection
-### Machine Learning
+### Data Science and Machine Learning
+- Data Science
+- Machine Learning Basics
+  - [Introduction to Machine Learning](Notes/Machine-Learning/Machine_Learning_Basics.ipynb)
+- Pandas
+  - [Introduction to Pandas](Notes/Machine-Learning/Pandas.ipynb)
