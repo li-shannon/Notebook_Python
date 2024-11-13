@@ -4,7 +4,7 @@
 ## Getting Started
 This repository contains notes and examples from various books, tutorials, and online courses. It is intended for educational purposes only.
 - Notes can be found under the <code>Notes</code> folder.
-- Examples can be found under the <code>Examples-and-Practice-Problems</code> folder.
+- Examples can be found under the <code>Examples</code> folder.
 
 Use the directory below for easy navigation to relevant files.
 
@@ -16,7 +16,7 @@ Use the directory below for easy navigation to relevant files.
   - [Strings](Notes/Data-Types/Strings.ipynb)
   - [Sets](Notes/Data-Types/Sets.ipynb)
 - Loops and Conditions
-  - Example: [Credit Card Payment](Examples-and-Practice-Problems/Credit_Card_Payments.ipynb)
+  - Example: [Credit Card Payment](Examples/Credit_Card_Payments.ipynb)
 - Exceptions and Assertions
 - [Exception Handling](Notes/Exception_Handling.ipynb)
 
